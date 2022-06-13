@@ -1,1 +1,1 @@
-Usa una chiamata fetch per costruire la pagina prelevando i dati dal json assegnato
+Volevo fare il codice più pulito possibile ma riesco ad arrivare al return con entrambi i metodi, metterli a video non riesco. Menomale che c'è la buildweek e posso ripassare e colmare le lacune che ho.
